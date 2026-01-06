@@ -17,3 +17,8 @@ Based on the above changes, create a commit message only.
 **Do NOT execute git add or git commit commands.**
 Only provide the suggested commit message text.
 **Do NOT include any Claude Code signatures or co-author credits.**
+
+## How to use
+```
+/commit-msg
+```
